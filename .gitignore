@@ -1,0 +1,9 @@
+/app/tests/_output
+/app/config/local
+/bootstrap/compiled.php
+/vendor
+composer.phar
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
